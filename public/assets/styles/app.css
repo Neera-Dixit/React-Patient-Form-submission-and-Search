@@ -1,0 +1,65 @@
+
+body{
+	margin:0;
+	padding: 0;
+  overflow : auto;
+}
+
+#reactApp{
+	width : 100%;
+	height : 100%;
+}
+
+#header{
+	height:6%;
+	border-bottom: 1px solid grey;
+}
+
+#header ul{
+	margin-top:10px;
+}
+#header li {
+	display : inline;
+	font-size : 20px;
+	margin-right : 15px;
+}
+
+#header li a{
+ text-decoration: none;
+ color : black;
+ font-weight: bold;
+}
+
+#patientform {
+	margin-top: 20px;
+	margin-left : 10px;
+}
+#patientform > div,select{
+	margin-bottom: 10px;
+}
+
+#patientform > div > span {
+ margin-left: 15px;
+}
+
+.invalid{
+	border-width: 3px;
+	border-color: red;
+}
+
+.showMsg{
+	display: inline;
+}
+
+.hideMsg{
+	display: none;
+}
+
+#viewPatient{
+	text-align: center;
+	margin-top: 20px;
+}
+
+#patientList{
+	margin-top: 10px;
+}
