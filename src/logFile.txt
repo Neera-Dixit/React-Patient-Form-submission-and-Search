@@ -3325,3 +3325,20 @@
 {"responseTime":"7 ms","url":"/viewPatients","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:08:20 PM"}
 {"responseTime":"20 ms","url":"/patient","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:08:21 PM"}
 {"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:08:21 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:08:25 PM"}
+{"responseTime":"8 ms","url":"/viewPatients","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:08:25 PM"}
+{"responseTime":"19 ms","url":"/patient","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:08:25 PM"}
+{"responseTime":"3 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::ffff:127.0.0.1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:08:25 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:46:09 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:46:11 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:47:51 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:48:09 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:49:26 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:50:13 PM"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2/18/2017, 11:50:37 PM"}
+{"responseTime":"8 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:50:49 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:50:50 PM"}
+{"responseTime":"1 ms","url":"/","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:50:50 PM"}
+{"responseTime":"1 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:50:50 PM"}
+{"responseTime":"18 ms","url":"/patient","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:50:52 PM"}
+{"responseTime":"11 ms","url":"/favicon.ico","Request Method":"GET","Ip":"::1","User-Agent":"Chrome 56.0.2924 / Windows 10 0.0.0","level":"info","message":"","timestamp":"2/18/2017, 11:50:52 PM"}

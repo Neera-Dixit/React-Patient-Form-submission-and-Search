@@ -2,7 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 var fs = require('fs');
 
-var clientBuildPath = path.resolve(__dirname, 'public', 'build');
+var clientBuildPath = path.resolve(__dirname, 'public', 'assets','js');
 var clientMainPath = path.resolve(__dirname, 'src','components','index.js');
 
 
